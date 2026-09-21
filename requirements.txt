@@ -1,0 +1,27 @@
+# --- Module 1: data_pipeline ---
+requests
+beautifulsoup4
+pandas
+lxml
+
+# --- Module 2: analytics ---
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+joblib
+numpy
+
+# --- Module 3: support_assistant ---
+sentence-transformers
+chromadb
+langgraph
+langchain-core
+pydantic
+fastapi
+uvicorn
+python-dotenv
+
+# --- Dev ---
+ipykernel
+jupyter
