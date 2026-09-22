@@ -1,3 +1,5 @@
+
+Author: Goutami Chenumalla
 # Zepto Data & AI Platform
 
 One repository, three connected modules built as part of the Zepto analytics-guild capstone:
