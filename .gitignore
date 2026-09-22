@@ -16,3 +16,5 @@ env/
 .env
 
 # Large/generated (keep DB + csv + joblib since rubric wants them committed)
+
+chroma_store
